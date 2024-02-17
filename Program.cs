@@ -67,7 +67,7 @@ Console.WriteLine("Número entero: " + numeroEntero);
 #pragma warning disable IDE0059 // Asignación innecesaria de un valor
     char caracter1 = Console.ReadLine()[0];
 #pragma warning restore IDE0059 // Asignación innecesaria de un valor
-#pragma warning restore CS8602 // Desreferencia de una referencia posiblemente NULL.
+#pragma warning restore CS8602 // Desreferencia de una referencia posiblemente NULL
 
     // Convertir el caracter a entero
     // Mostrar el resultado
